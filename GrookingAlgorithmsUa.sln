@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch01", "BinarySea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort03", "SelectionSort03\SelectionSort03.csproj", "{9472BCC4-B8D6-4963-BB2C-8658CD0C4766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion05", "Recursion05\Recursion05.csproj", "{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9472BCC4-B8D6-4963-BB2C-8658CD0C4766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9472BCC4-B8D6-4963-BB2C-8658CD0C4766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9472BCC4-B8D6-4963-BB2C-8658CD0C4766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
