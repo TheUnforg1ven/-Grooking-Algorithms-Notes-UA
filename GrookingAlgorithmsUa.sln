@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort03", "Selectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion05", "Recursion05\Recursion05.csproj", "{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort07", "Quicksort07\Quicksort07.csproj", "{E707EEB2-21DD-44D1-9A80-79071DDD7CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB2F3DF-FD4A-4C57-9046-941DCEF396BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E707EEB2-21DD-44D1-9A80-79071DDD7CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E707EEB2-21DD-44D1-9A80-79071DDD7CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E707EEB2-21DD-44D1-9A80-79071DDD7CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E707EEB2-21DD-44D1-9A80-79071DDD7CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
